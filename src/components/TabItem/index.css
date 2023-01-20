@@ -1,0 +1,30 @@
+.item-tab {
+  list-style-type: none;
+}
+
+.btn {
+  background-color: transparent;
+  border-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #7b8794;
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  height: 50px;
+  margin-bottom: 5px;
+  outline: none;
+}
+
+.active-btn {
+  color: #2563eb;
+}
+
+.line {
+  background-color: #dfe2e5;
+  border: none;
+  height: 2px;
+}
+
+.active-underline {
+  background-color: #2563eb;
+}
